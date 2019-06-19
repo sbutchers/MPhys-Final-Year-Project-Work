@@ -9,4 +9,4 @@ I then used the code's solutions for the ODEs to extrapolate measuremnents for *
 
 ![ns_r quadratic](Images/Square_ns_r.png)
 
-*The r vs. n<sub>s</sub> plot for the quadratic inflation model with the Planck 2015 constraints on each parameter included. See Images directory for examples for the other models.*
+**Figure:** *The r vs. n<sub>s</sub> plot for the quadratic inflation model with the Planck 2015 constraints on each parameter included. See Images directory for examples for the other models.*
